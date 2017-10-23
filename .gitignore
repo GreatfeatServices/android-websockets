@@ -124,3 +124,10 @@ google-services.json
 freeline.py
 freeline/
 freeline_project_description.json
+.idea/compiler.xml
+.idea/copyright/
+.idea/misc.xml
+.idea/modules.xml
+.idea/vcs.xml
+app/libs/
+app/src/main/res/drawable/
